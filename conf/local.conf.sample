@@ -267,3 +267,4 @@ PACKAGECONFIG_append_pn-qemu-system-native = " sdl"
 # this doesn't mean anything to you.
 CONF_VERSION = "1"
 
+BB_GENERATE_MIRROR_TARBALLS = "1"
